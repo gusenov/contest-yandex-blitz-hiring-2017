@@ -1,0 +1,6 @@
+Cplusplus - C - 1:0
+Cplusplus - Php - 2:0
+Java - Php - 1:0
+Java - C - 2:2
+Java - Perl - 1:1
+Java - Haskell - 1:1
